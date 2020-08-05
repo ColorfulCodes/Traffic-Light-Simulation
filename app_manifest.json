@@ -1,0 +1,12 @@
+{
+  "SchemaVersion": 1,
+  "Name": "Traffic_Lights",
+  "ComponentId": "4c5b2982-e737-414c-8957-600899f0e6dd",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": [ 9, 10, 12, 13, 15, 16, 18 ],
+    "AllowedApplicationConnections": []
+  },
+  "ApplicationType": "Default"
+}
